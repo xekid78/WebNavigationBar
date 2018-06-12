@@ -1,4 +1,7 @@
-@charset "UTF-8";
+body {
+  width: 400px;
+  margin: 0 auto;
+}
 
 #nav {
   list-style-type: none;
